@@ -1,2 +1,2 @@
-# a2z-shop
+# A2Z-shop
 Final Year Project: This website developed using different technologies (HTML, CSS, JavaScript, PHP) and tools (Adobe Dreamweaver, WAMPP, Photoshop).
